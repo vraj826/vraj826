@@ -1,11 +1,11 @@
 <h1 align="center">Vrajkumar Shah</h1>
 
 <p align="center">
-Computer Engineering Student | Contributor @ GSSoC '26 | Ex-LFX '26 Mentee @ magma-core
+DDU CE '29 | Contributor @ GSSoC '26 | Ex-LFX '26 Mentee @ magma-core
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=700&lines=DDU+CE+'29;Contributor+@+GSSoC+'26;Ex-LFX+'26+Mentee+@+magma-core;Cyber+Security;AI+Systems;Cloud;Learning+by+building+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+@+DDU+'29;Contributor+@+GSSoC+'26;Ex-LFX+'26+Mentee+@+magma-core;Cyber+Security;AI+Systems;Cloud+Technology;Learning+by+building+projects" />
 </p>
 
 ---
@@ -58,7 +58,7 @@ Computer Engineering Student | Contributor @ GSSoC '26 | Ex-LFX '26 Mentee @ mag
 
 ---
 
-## Connect Wlith Me
+## Lets Collaborate
 
 <p align="center">
 <a href="https://github.com/vraj826">
