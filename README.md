@@ -5,7 +5,7 @@ Computer Engineering Student | Contributor @ GSSoC '26 | Ex-LFX '26 Mentee @ mag
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Open+Source+Contributor;Cybersecurity+Enthusiast;Building+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=700&lines=DDU+CE+'29;Contributor+@+GSSoC+'26;Ex-LFX+'26+Mentee+@+magma-core;Cyber+Security;AI+Systems;Cloud;Learning+by+building+projects" />
 </p>
 
 ---
