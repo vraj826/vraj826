@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:8B5CF6&text=Vrajkumar%20Shah&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:8B5CF6&text=Vrajkumar%20Shah&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
 <br/>
 
@@ -57,7 +57,7 @@ I enjoy understanding how systems work, identifying security challenges, and dev
 # Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript,bash,mongodb,mysql,aws,git,github,linux&perline=13"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript,mongodb,mysql,git,github,linux,bash,aws,gcp&perline=14"/>
 </p>
 
 ---
@@ -103,8 +103,6 @@ I enjoy understanding how systems work, identifying security challenges, and dev
 <img src="https://raw.githubusercontent.com/vraj826/vraj826/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
----
 
 <br/>
 
