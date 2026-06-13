@@ -9,13 +9,14 @@
 <br/><br/>
 
 ![](https://komarev.com/ghpvc/?username=vraj826&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/vraj826?style=for-the-badge&color=6D28D9)
 
 <br/>
 
 ![](https://img.shields.io/badge/B.Tech-CE%20@%20DDU%20'29-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Cyber%20Security-Enthusisast-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/Contributor-GSSoC%20'26-5B21B6?style=for-the-badge)
+![](https://img.shields.io/badge/GSSoC%20'26-Contributor-5B21B6?style=for-the-badge)
+![](https://img.shields.io/badge/Magma%20Core-Ex--LFX%20Mentee%20'26-5B21B6?style=for-the-badge)
+<br/>
+![](https://img.shields.io/badge/Cyber%20Security,%20AI%20Systems%20&%20Cloud-Enthusiast-6D28D9?style=for-the-badge)
 
 <br/>
 
@@ -57,7 +58,7 @@ I enjoy understanding how systems work, identifying security challenges, and dev
 # Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript,mongodb,mysql,git,github,linux,bash,aws,gcp&perline=14"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript,mongodb,mysql,git,github,githubactions,linux,postman,bash,aws,gcp,vercel,netlify&perline=9"/>
 </p>
 
 ---
