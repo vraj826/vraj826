@@ -13,10 +13,10 @@
 <br/>
 
 ![](https://img.shields.io/badge/B.Tech-CE%20@%20DDU%20'29-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/GSSoC%20'26-Contributor-5B21B6?style=for-the-badge)
+![](https://img.shields.io/badge/GSSoC%20'26-Ex--Contributor-5B21B6?style=for-the-badge)
 ![](https://img.shields.io/badge/Magma%20Core-Ex--LFX%20Mentee%20'26-5B21B6?style=for-the-badge)
 <br/>
-![](https://img.shields.io/badge/Cyber%20Security,%20AI%20Systems%20&%20Cloud-Enthusiast-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/Cyber%20Security%20&%20AI%20Systems-Enthusiast-6D28D9?style=for-the-badge)
 
 <br/>
 
@@ -63,35 +63,11 @@ I enjoy understanding how systems work, identifying security challenges, and dev
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vraj826&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vraj826&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vraj826&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # GitHub Trophies
 
 <div align="center">
 
 <img src="https://github-trophies.vercel.app/?username=vraj826&theme=algolia&no-frame=true&no-bg=true"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vraj826&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
